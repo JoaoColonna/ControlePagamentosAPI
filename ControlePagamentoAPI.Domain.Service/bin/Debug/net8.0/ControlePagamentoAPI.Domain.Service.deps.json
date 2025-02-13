@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ControlePagamentoAPI.Domain.Service/1.0.0": {
+        "dependencies": {
+          "ControlePagamentoAPI.Domain": "1.0.0",
+          "ControlePagamentoAPI.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "ControlePagamentoAPI.Domain.Service.dll": {}
+        }
+      },
+      "ControlePagamentoAPI.Domain/1.0.0": {
+        "runtime": {
+          "ControlePagamentoAPI.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ControlePagamentoAPI.Domain.Core/1.0.0": {
+        "dependencies": {
+          "ControlePagamentoAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ControlePagamentoAPI.Domain.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControlePagamentoAPI.Domain.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControlePagamentoAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControlePagamentoAPI.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

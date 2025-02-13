@@ -1,0 +1,17 @@
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\bin\Debug\net8.0\ControlePagamentoAPI.Domain.Service.deps.json
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\bin\Debug\net8.0\ControlePagamentoAPI.Domain.Service.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\bin\Debug\net8.0\ControlePagamentoAPI.Domain.Service.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\bin\Debug\net8.0\ControlePagamentoAPI.Domain.Core.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\bin\Debug\net8.0\ControlePagamentoAPI.Domain.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\bin\Debug\net8.0\ControlePagamentoAPI.Domain.Core.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\bin\Debug\net8.0\ControlePagamentoAPI.Domain.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Service.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Service.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Service.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Service.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\obj\Debug\net8.0\Controle.837C040E.Up2Date
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Service.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\obj\Debug\net8.0\refint\ControlePagamentoAPI.Domain.Service.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Service.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Service\obj\Debug\net8.0\ref\ControlePagamentoAPI.Domain.Service.dll

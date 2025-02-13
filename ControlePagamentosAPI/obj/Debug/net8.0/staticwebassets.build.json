@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nQDQVzncKMeTdek8+heVK6L7fVDWgsizFGYao3DWajI=",
+  "Source": "ControlePagamentosAPI",
+  "BasePath": "_content/ControlePagamentosAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

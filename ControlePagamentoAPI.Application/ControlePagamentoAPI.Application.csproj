@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ControlePagamentoAPI.Application.DTO\ControlePagamentoAPI.Application.DTO.csproj" />
+    <ProjectReference Include="..\ControlePagamentoAPI.Domain.Core\ControlePagamentoAPI.Domain.Core.csproj" />
+    <ProjectReference Include="..\Infrasctructure\ControlePagamentoAPI.Infrastructure.csproj" />
+	  <ProjectReference Include="..\ControlePagamentoAPI.Infrastructure.CrossCutting\ControlePagamentoAPI.Infrastructure.CrossCutting.csproj" />
+  </ItemGroup>
+
+</Project>

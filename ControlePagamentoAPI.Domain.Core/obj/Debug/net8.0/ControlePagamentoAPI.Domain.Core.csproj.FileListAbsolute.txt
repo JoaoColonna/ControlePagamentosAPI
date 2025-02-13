@@ -1,0 +1,15 @@
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\bin\Debug\net8.0\ControlePagamentoAPI.Domain.Core.deps.json
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\bin\Debug\net8.0\ControlePagamentoAPI.Domain.Core.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\bin\Debug\net8.0\ControlePagamentoAPI.Domain.Core.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\bin\Debug\net8.0\ControlePagamentoAPI.Domain.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\bin\Debug\net8.0\ControlePagamentoAPI.Domain.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Core.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\obj\Debug\net8.0\Controle.E25ECD6E.Up2Date
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Core.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\obj\Debug\net8.0\refint\ControlePagamentoAPI.Domain.Core.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\obj\Debug\net8.0\ControlePagamentoAPI.Domain.Core.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Domain.Core\obj\Debug\net8.0\ref\ControlePagamentoAPI.Domain.Core.dll

@@ -1,0 +1,11 @@
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\Domain\bin\Debug\net8.0\ControlePagamentoAPI.Domain.deps.json
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\Domain\bin\Debug\net8.0\ControlePagamentoAPI.Domain.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\Domain\bin\Debug\net8.0\ControlePagamentoAPI.Domain.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\Domain\obj\Debug\net8.0\ControlePagamentoAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\Domain\obj\Debug\net8.0\ControlePagamentoAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\Domain\obj\Debug\net8.0\ControlePagamentoAPI.Domain.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\Domain\obj\Debug\net8.0\ControlePagamentoAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\Domain\obj\Debug\net8.0\ControlePagamentoAPI.Domain.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\Domain\obj\Debug\net8.0\refint\ControlePagamentoAPI.Domain.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\Domain\obj\Debug\net8.0\ControlePagamentoAPI.Domain.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\Domain\obj\Debug\net8.0\ref\ControlePagamentoAPI.Domain.dll

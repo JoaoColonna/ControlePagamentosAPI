@@ -1,0 +1,17 @@
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\bin\Debug\net8.0\ControlePagamentoAPI.Infrastructure.CrossCutting.deps.json
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\bin\Debug\net8.0\ControlePagamentoAPI.Infrastructure.CrossCutting.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\bin\Debug\net8.0\ControlePagamentoAPI.Infrastructure.CrossCutting.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\bin\Debug\net8.0\ControlePagamentoAPI.Application.DTO.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\bin\Debug\net8.0\ControlePagamentoAPI.Domain.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\bin\Debug\net8.0\ControlePagamentoAPI.Application.DTO.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\bin\Debug\net8.0\ControlePagamentoAPI.Domain.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\obj\Debug\net8.0\ControlePagamentoAPI.Infrastructure.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\obj\Debug\net8.0\ControlePagamentoAPI.Infrastructure.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\obj\Debug\net8.0\ControlePagamentoAPI.Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\obj\Debug\net8.0\ControlePagamentoAPI.Infrastructure.CrossCutting.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\obj\Debug\net8.0\ControlePagamentoAPI.Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\obj\Debug\net8.0\Controle.44573AA9.Up2Date
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\obj\Debug\net8.0\ControlePagamentoAPI.Infrastructure.CrossCutting.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\obj\Debug\net8.0\refint\ControlePagamentoAPI.Infrastructure.CrossCutting.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\obj\Debug\net8.0\ControlePagamentoAPI.Infrastructure.CrossCutting.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Infrastructure.CrossCutting\obj\Debug\net8.0\ref\ControlePagamentoAPI.Infrastructure.CrossCutting.dll

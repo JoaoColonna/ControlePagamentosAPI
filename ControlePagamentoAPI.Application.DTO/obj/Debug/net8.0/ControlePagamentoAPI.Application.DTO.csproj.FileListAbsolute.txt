@@ -1,0 +1,11 @@
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Application.DTO\bin\Debug\net8.0\ControlePagamentoAPI.Application.DTO.deps.json
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Application.DTO\bin\Debug\net8.0\ControlePagamentoAPI.Application.DTO.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Application.DTO\bin\Debug\net8.0\ControlePagamentoAPI.Application.DTO.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Application.DTO\obj\Debug\net8.0\ControlePagamentoAPI.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Application.DTO\obj\Debug\net8.0\ControlePagamentoAPI.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Application.DTO\obj\Debug\net8.0\ControlePagamentoAPI.Application.DTO.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Application.DTO\obj\Debug\net8.0\ControlePagamentoAPI.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Application.DTO\obj\Debug\net8.0\ControlePagamentoAPI.Application.DTO.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Application.DTO\obj\Debug\net8.0\refint\ControlePagamentoAPI.Application.DTO.dll
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Application.DTO\obj\Debug\net8.0\ControlePagamentoAPI.Application.DTO.pdb
+C:\Users\joaoc\source\repos\ControlePagamentosAPI\ControlePagamentoAPI.Application.DTO\obj\Debug\net8.0\ref\ControlePagamentoAPI.Application.DTO.dll
