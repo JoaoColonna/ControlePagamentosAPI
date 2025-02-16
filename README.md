@@ -10,7 +10,7 @@ O ControlePagamentoAPI é uma aplicação para gerenciar pagamentos e clientes. 
 Clone o repositório para sua máquina local usando o comando:
 
 ```
-git clone https://github.com/seu_usuario/ControlePagamentoAPI.git
+git clone https://github.com/JoaoColonna/ControlePagamentoAPI.git
 ```
 
 ## Configuração do Banco de Dados
